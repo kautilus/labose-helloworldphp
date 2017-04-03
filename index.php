@@ -1,4 +1,4 @@
-<p> Hi world!! version 2, the system time is: 
+<p> Hi world!! version 3, the system time is: 
 <?php
   $hora= date ("h:i:s");
   $fecha= date ("j/n/Y");
